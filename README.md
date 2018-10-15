@@ -1,5 +1,5 @@
 # Rock-paper-scissors.svg
-`Roshambo.svg` is a derivative of `Rock-paper-scissors.svg` and therefore is licensed under the Creative Commons [Attribution-Share Alike 3.0 Unported license](https://creativecommons.org/licenses/by-sa/3.0/deed.en).	
+`Roshambo.svg` is a derivative of [`Rock-paper-scissors.svg`](https://commons.wikimedia.org/wiki/File:Rock-paper-scissors.svg) and therefore is licensed under the Creative Commons [Attribution-Share Alike 3.0 Unported license](https://creativecommons.org/licenses/by-sa/3.0/deed.en).	
 
 You are free:
 * to share – to copy, distribute and transmit the work
